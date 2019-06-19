@@ -1,7 +1,7 @@
 # hello-world
 "Hello World" to GitHub
 
-This is my first interaction with Github. I heard a lot of things about Github so now I decided to give it a try by myslef.
+This is my first interaction with Github. I heard a lot of things about Github so now I decided to give it a try by myself.
 
 I love programming and have implemented couple of projects using various technologies.
 
